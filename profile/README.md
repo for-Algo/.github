@@ -1,9 +1,4 @@
-# codingTest_study
-
--   git으로 코드 관리
--   notion으로 개념 정리
--   Discord로 스터디 진행
-
+# 코딩테스트 스터디 - Javascript
 ## 진행방식
 
 -   시간: 미정
